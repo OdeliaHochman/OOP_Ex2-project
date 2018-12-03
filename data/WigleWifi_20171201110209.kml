@@ -1,0 +1,3363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+ \"><Document><Folder><name>SSID</name>
+<Point><coordinates>CurrentLatitudeCurrentLongitude</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>CurrentLatitude</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>CurrentLatitude</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>Efrat</name>
+<Point><coordinates>32.1721826821653434.81446401702757</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.17218268216534</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.17218268216534</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>Volvo247</name>
+<Point><coordinates>32.17220925956076634.814448298318844</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.172209259560766</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.172209259560766</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>love</name>
+<Point><coordinates>32.17225087510307434.81436692415887</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.172250875103074</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.172250875103074</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>Chakir</name>
+<Point><coordinates>32.1722848339943234.814036899369874</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.17228483399432</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.17228483399432</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>Orit</name>
+<Point><coordinates>32.1723073380755834.81387685906902</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.17230733807558</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.17230733807558</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>Mevohot_1</name>
+<Point><coordinates>32.17238268574108434.81336124587249</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.172382685741084</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.172382685741084</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>Partner</name>
+<Point><coordinates>32.172413573216634.81308167653217</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.1724135732166</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.1724135732166</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>DIR-825-4f83</name>
+<Point><coordinates>32.1724400323106134.81291470608912</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.17244003231061</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.17244003231061</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>DIR-825-4f83</name>
+<Point><coordinates>32.1724400323106134.81291470608912</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.17244003231061</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.17244003231061</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>Partner</name>
+<Point><coordinates>32.1724400323106134.81291470608912</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.17244003231061</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.17244003231061</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>NIPPON_3687</name>
+<Point><coordinates>32.1724838237476934.812693847413286</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.17248382374769</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.17248382374769</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>NIPPON_3687</name>
+<Point><coordinates>32.172522518847834.81247911919242</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.1725225188478</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.1725225188478</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>Hotbox</name>
+<Point><coordinates>32.172522518847834.81247911919242</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.1725225188478</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.1725225188478</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>varda</name>
+<Point><coordinates>32.1725456495750834.81226897382831</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.17254564957508</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.17254564957508</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>Helen.</name>
+<Point><coordinates>32.1722940871054734.812042356198646</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.17229408710547</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.17229408710547</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>Partner</name>
+<Point><coordinates>32.1719174291166534.811904195497384</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.17191742911665</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.17191742911665</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>Ben Ami_2.4</name>
+<Point><coordinates>32.17172818606227534.8118405837912</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.171728186062275</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.171728186062275</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>varda</name>
+<Point><coordinates>32.1715406729735834.811768201385796</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.17154067297358</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.17154067297358</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>ronkla2_5</name>
+<Point><coordinates>32.1713580347836934.81168874408503</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.17135803478369</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.17135803478369</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>mika1</name>
+<Point><coordinates>32.1711772099836234.811600945951724</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.17117720998362</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.17117720998362</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>Partner</name>
+<Point><coordinates>32.1707980425025934.811406143585245</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.17079804250259</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.17079804250259</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>Gana7_2GExt</name>
+<Point><coordinates>32.1706125050098234.81130191879183</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.17061250500982</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.17061250500982</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>Guymic</name>
+<Point><coordinates>32.170422006136934.811205413681165</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.1704220061369</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.1704220061369</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>stephane</name>
+<Point><coordinates>32.1702377440012534.811098338566204</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.17023774400125</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.17023774400125</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>devolo-0f4</name>
+<Point><coordinates>32.17005338917180534.81099874038432</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.170053389171805</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.170053389171805</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>HOTBOX-4D4E</name>
+<Point><coordinates>32.17005338917180534.81099874038432</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.170053389171805</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.170053389171805</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>Neeman2.4</name>
+<Point><coordinates>32.1698841057310234.81092582224991</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.16988410573102</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.16988410573102</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>oved-main_2EX</name>
+<Point><coordinates>32.1698841057310234.81092582224991</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.16988410573102</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.16988410573102</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>oved-main</name>
+<Point><coordinates>32.16972841813381534.810858045280845</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.169728418133815</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.169728418133815</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>Partner</name>
+<Point><coordinates>32.16972841813381534.810858045280845</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.169728418133815</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.169728418133815</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>Lili</name>
+<Point><coordinates>32.16949134662656534.81077184677352</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.169491346626565</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.169491346626565</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>Liliup</name>
+<Point><coordinates>32.16949134662656534.81077184677352</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.169491346626565</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.169491346626565</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>ELCHARAR_2.4</name>
+<Point><coordinates>32.16949134662656534.81077184677352</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.169491346626565</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.169491346626565</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>Alpha125</name>
+<Point><coordinates>32.16949134662656534.81077184677352</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.169491346626565</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.169491346626565</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>Bezeq Free T00C36</name>
+<Point><coordinates>32.16949134662656534.81077184677352</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.169491346626565</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.169491346626565</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>dlink-A09C</name>
+<Point><coordinates>32.1693984969067934.81074036189685</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.16939849690679</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.16939849690679</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>edimax_5G_A9241C</name>
+<Point><coordinates>32.1693594080085234.81072496254775</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.16935940800852</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.16935940800852</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>spielman</name>
+<Point><coordinates>32.1693594080085234.81072496254775</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.16935940800852</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.16935940800852</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>forestisthebest</name>
+<Point><coordinates>32.1693594080085234.81072496254775</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.16935940800852</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.16935940800852</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>evanson</name>
+<Point><coordinates>32.1693594080085234.81072496254775</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.16935940800852</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.16935940800852</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>KaymeraDev</name>
+<Point><coordinates>32.1693594080085234.81072496254775</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.16935940800852</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.16935940800852</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>KaymeraDev</name>
+<Point><coordinates>32.1693594080085234.81072496254775</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.16935940800852</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.16935940800852</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>spielman</name>
+<Point><coordinates>32.1693594080085234.81072496254775</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.16935940800852</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.16935940800852</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>evanson</name>
+<Point><coordinates>32.1693594080085234.81072496254775</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.16935940800852</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.16935940800852</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>BezeqNGN_001489_2.4GHz_1</name>
+<Point><coordinates>32.1693594080085234.81072496254775</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.16935940800852</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.16935940800852</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>oved-main</name>
+<Point><coordinates>32.1693594080085234.81072496254775</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.16935940800852</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.16935940800852</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>Partner</name>
+<Point><coordinates>32.1693594080085234.81072496254775</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.16935940800852</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.16935940800852</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>spielman</name>
+<Point><coordinates>32.16921230941172634.81068174685835</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.169212309411726</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.169212309411726</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>Jamcanup</name>
+<Point><coordinates>32.1691701923013334.8106650271149</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.16917019230133</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.16917019230133</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>Jamcandown</name>
+<Point><coordinates>32.1691701923013334.8106650271149</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.16917019230133</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.16917019230133</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>edimax_2.4G_ruty</name>
+<Point><coordinates>32.1691701923013334.8106650271149</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.16917019230133</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.16917019230133</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>HP-Print-C1-Deskjet 4640 series</name>
+<Point><coordinates>32.1691701923013334.8106650271149</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.16917019230133</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.16917019230133</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>HP-Print-C1-Deskjet 4640 series</name>
+<Point><coordinates>32.16901232165013634.810619520712386</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.169012321650136</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.169012321650136</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>iFOREX</name>
+<Point><coordinates>32.16888140614917534.81057058716543</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.168881406149175</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.168881406149175</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>INGENEO</name>
+<Point><coordinates>32.1687825350029834.81061687133246</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.16878253500298</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.16878253500298</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>DIRECT-a8-HP M477 LaserJet</name>
+<Point><coordinates>32.1687825350029834.81061687133246</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.16878253500298</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.16878253500298</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>Candan</name>
+<Point><coordinates>32.1687825350029834.81061687133246</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.16878253500298</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.16878253500298</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>LRWN</name>
+<Point><coordinates>32.16875022766280534.81078259065756</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.168750227662805</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.168750227662805</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>HOTBOX111</name>
+<Point><coordinates>32.1687552534387934.81129910090613</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.16875525343879</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.16875525343879</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>LRWN</name>
+<Point><coordinates>32.1687895312404334.81154567298425</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.16878953124043</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.16878953124043</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>LRWN</name>
+<Point><coordinates>32.1688376990199134.81174537287164</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.16883769901991</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.16883769901991</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>  InnovationEndeavors</name>
+<Point><coordinates>32.1688376990199134.81174537287164</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.16883769901991</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.16883769901991</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>HOTFiber-400D</name>
+<Point><coordinates>32.1688376990199134.81174537287164</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.16883769901991</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.16883769901991</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>LRWN</name>
+<Point><coordinates>32.1688980553772134.81183319930766</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.16889805537721</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.16889805537721</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>Talfamily</name>
+<Point><coordinates>32.1688980553772134.81183319930766</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.16889805537721</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.16889805537721</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>HOTBOX-8156</name>
+<Point><coordinates>32.1690911270744834.81193255078027</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.16909112707448</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.16909112707448</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>Partner</name>
+<Point><coordinates>32.1690911270744834.81193255078027</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.16909112707448</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.16909112707448</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>Fuck Off Yourself</name>
+<Point><coordinates>32.1692710724691134.81201044802282</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.16927107246911</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.16927107246911</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>Fuck Off ext</name>
+<Point><coordinates>32.1692710724691134.81201044802282</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.16927107246911</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.16927107246911</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>Mheta_AP</name>
+<Point><coordinates>32.1692710724691134.81201044802282</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.16927107246911</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.16927107246911</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>ELCHARAR_2.4</name>
+<Point><coordinates>32.1694368272520134.81208525807686</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.16943682725201</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.16943682725201</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>Bezeq Free T00C36</name>
+<Point><coordinates>32.1694368272520134.81208525807686</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.16943682725201</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.16943682725201</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>Partner</name>
+<Point><coordinates>32.1695731991823134.8130339454378</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.16957319918231</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.16957319918231</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>nina</name>
+<Point><coordinates>32.1695547843947134.81323889640528</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.16955478439471</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.16955478439471</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>hilda</name>
+<Point><coordinates>32.169572090185134.813408321637986</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.1695720901851</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.1695720901851</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>DIRECT-29-HP OfficeJet Pro 8710</name>
+<Point><coordinates>32.169572090185134.813408321637986</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.1695720901851</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.1695720901851</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>Candan</name>
+<Point><coordinates>32.169721248847634.81347187978352</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.1697212488476</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.1697212488476</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>dlink</name>
+<Point><coordinates>32.1701013267557134.813514176763185</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.17010132675571</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.17010132675571</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>orange</name>
+<Point><coordinates>32.1701013267557134.813514176763185</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.17010132675571</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.17010132675571</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>Bezeq Free</name>
+<Point><coordinates>32.1701013267557134.813514176763185</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.17010132675571</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.17010132675571</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>Partner</name>
+<Point><coordinates>32.1701013267557134.813514176763185</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.17010132675571</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.17010132675571</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>orange</name>
+<Point><coordinates>32.1702540656503934.813537076757704</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.17025406565039</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.17025406565039</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>HOTBOX-F028</name>
+<Point><coordinates>32.1704288430984334.81356387819144</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.17042884309843</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.17042884309843</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>HOTBOX-F028</name>
+<Point><coordinates>32.1704288430984334.81356387819144</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.17042884309843</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.17042884309843</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>Partner</name>
+<Point><coordinates>32.1704288430984334.81356387819144</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.17042884309843</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.17042884309843</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>amnon</name>
+<Point><coordinates>32.1706183017276134.813595071211296</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.17061830172761</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.17061830172761</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>Is</name>
+<Point><coordinates>32.1706183017276134.813595071211296</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.17061830172761</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.17061830172761</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>My_Internet</name>
+<Point><coordinates>32.1706183017276134.813595071211296</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.17061830172761</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.17061830172761</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>Beni</name>
+<Point><coordinates>32.1706183017276134.813595071211296</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.17061830172761</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.17061830172761</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>Beni</name>
+<Point><coordinates>32.1708139206311134.81363414318978</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.17081392063111</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.17081392063111</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>HOTBOX</name>
+<Point><coordinates>32.1708139206311134.81363414318978</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.17081392063111</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.17081392063111</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>HOTBOX111</name>
+<Point><coordinates>32.1709871492844734.81362985551846</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.17098714928447</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.17098714928447</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>My_Internet</name>
+<Point><coordinates>32.1710678978423834.81350325265134</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.17106789784238</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.17106789784238</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>MNP_HOME_2.4GHz_1</name>
+<Point><coordinates>32.1710678978423834.81350325265134</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.17106789784238</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.17106789784238</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>test012</name>
+<Point><coordinates>32.1710678978423834.81350325265134</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.17106789784238</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.17106789784238</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>Yotam _ work _ room</name>
+<Point><coordinates>32.1710786294161734.81330158971711</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.17107862941617</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.17107862941617</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>tal</name>
+<Point><coordinates>32.1710786294161734.81330158971711</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.17107862941617</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.17107862941617</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>sirocco_2.4o</name>
+<Point><coordinates>32.1711008664051434.813083395926654</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.17110086640514</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.17110086640514</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>tal</name>
+<Point><coordinates>32.1711008664051434.813083395926654</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.17110086640514</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.17110086640514</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>nurit</name>
+<Point><coordinates>32.1711008664051434.813083395926654</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.17110086640514</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.17110086640514</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>044870715</name>
+<Point><coordinates>32.1711008664051434.813083395926654</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.17110086640514</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.17110086640514</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>tal2</name>
+<Point><coordinates>32.1711008664051434.813083395926654</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.17110086640514</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.17110086640514</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>sirocco_2.4o</name>
+<Point><coordinates>32.1711008664051434.813083395926654</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.17110086640514</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.17110086640514</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>DIRECT-75-HP DeskJet 4670 series</name>
+<Point><coordinates>32.1711008664051434.813083395926654</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.17110086640514</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.17110086640514</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>Partner</name>
+<Point><coordinates>32.17111108907645434.81293937528084</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.171111089076454</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.171111089076454</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>DIR-825-4f83</name>
+<Point><coordinates>32.1710434476402334.812838021973164</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.17104344764023</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.17104344764023</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>Oded 5Ghz</name>
+<Point><coordinates>32.1710434476402334.812838021973164</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.17104344764023</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.17104344764023</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>Oded 2.4Ghz</name>
+<Point><coordinates>32.1707041726614734.81268528377859</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.17070417266147</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.17070417266147</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>Oded 5Ghz</name>
+<Point><coordinates>32.1707041726614734.81268528377859</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.17070417266147</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.17070417266147</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>SIEMENS_LivingRoom</name>
+<Point><coordinates>32.1702859966391234.812613739872425</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.17028599663912</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.17028599663912</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>frank</name>
+<Point><coordinates>32.1702674868556734.81278321992516</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.17026748685567</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.17026748685567</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>TP-LINK_E3CA</name>
+<Point><coordinates>32.1702674868556734.81278321992516</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.17026748685567</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.17026748685567</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>ter123</name>
+<Point><coordinates>32.1702420486278834.813533118254576</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.17024204862788</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.17024204862788</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>Daizad</name>
+<Point><coordinates>32.1702420486278834.813533118254576</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.17024204862788</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.17024204862788</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>Daizad</name>
+<Point><coordinates>32.17030758391880634.81358034712056</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.170307583918806</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.170307583918806</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>yotam17</name>
+<Point><coordinates>32.1705041298986934.813608312741444</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.17050412989869</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.17050412989869</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>Beni</name>
+<Point><coordinates>32.1709489490998934.81367243117691</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.17094894909989</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.17094894909989</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>HOTBOX</name>
+<Point><coordinates>32.1709489490998934.81367243117691</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.17094894909989</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.17094894909989</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>Baruch_2.4</name>
+<Point><coordinates>32.1709489490998934.81367243117691</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.17094894909989</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.17094894909989</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>yotam17</name>
+<Point><coordinates>32.171122654222534.81334830357392</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.1711226542225</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.1711226542225</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>Yotam_Shir</name>
+<Point><coordinates>32.171122654222534.81334830357392</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.1711226542225</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.1711226542225</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>claire</name>
+<Point><coordinates>32.1709241091653534.81275918581424</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.17092410916535</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.17092410916535</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>Bezeq Free 672B84</name>
+<Point><coordinates>32.1709241091653534.81275918581424</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.17092410916535</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.17092410916535</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>ter123</name>
+<Point><coordinates>32.17030296149232534.81249258786661</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.170302961492325</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.170302961492325</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>BezeqFree</name>
+<Point><coordinates>32.1700917703852334.8123924291015</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.17009177038523</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.17009177038523</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>geller</name>
+<Point><coordinates>32.1700917703852334.8123924291015</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.17009177038523</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.17009177038523</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>Partner</name>
+<Point><coordinates>32.1700917703852334.8123924291015</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.17009177038523</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.17009177038523</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>DIRECT-1C-HP DeskJet 3830 series</name>
+<Point><coordinates>32.1696455396247434.812198841457004</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.16964553962474</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.16964553962474</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>nina</name>
+<Point><coordinates>32.1696455396247434.812198841457004</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.16964553962474</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.16964553962474</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>UFI_UF230_B3F</name>
+<Point><coordinates>32.16942370268995434.81210224701049</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.169423702689954</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.169423702689954</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>hot</name>
+<Point><coordinates>32.16942370268995434.81210224701049</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.169423702689954</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.169423702689954</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>klaiman</name>
+<Point><coordinates>32.1692165759195534.8119993015223</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.16921657591955</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.16921657591955</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>WR</name>
+<Point><coordinates>32.1692165759195534.8119993015223</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.16921657591955</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.16921657591955</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>HOTBOX-651B</name>
+<Point><coordinates>32.16902759446321634.81191817927795</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.169027594463216</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.169027594463216</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>Partner</name>
+<Point><coordinates>32.16902759446321634.81191817927795</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.169027594463216</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.169027594463216</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>nina</name>
+<Point><coordinates>32.1695668898975534.812206661227876</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.16956688989755</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.16956688989755</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>landau</name>
+<Point><coordinates>32.16981700021836634.81230905410695</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.169817000218366</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.169817000218366</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>LRWN</name>
+<Point><coordinates>32.1700516461487534.812397786519114</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.17005164614875</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.17005164614875</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>HOTBOX-651B</name>
+<Point><coordinates>32.1700516461487534.812397786519114</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.17005164614875</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.17005164614875</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>klaiman</name>
+<Point><coordinates>32.1700516461487534.812397786519114</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.17005164614875</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.17005164614875</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>Partner</name>
+<Point><coordinates>32.1700516461487534.812397786519114</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.17005164614875</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.17005164614875</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>frank</name>
+<Point><coordinates>32.1701962483483234.81245570309557</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.17019624834832</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.17019624834832</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>UFI_UF230_B3F</name>
+<Point><coordinates>32.170476044470834.812577158369976</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.1704760444708</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.1704760444708</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>ter123</name>
+<Point><coordinates>32.170476044470834.812577158369976</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.1704760444708</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.1704760444708</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>hot</name>
+<Point><coordinates>32.170476044470834.812577158369976</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.1704760444708</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.1704760444708</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>TUCHLER</name>
+<Point><coordinates>32.17065402752968634.81268553093009</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.170654027529686</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.170654027529686</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>UFI_UF230_B3F</name>
+<Point><coordinates>32.17065402752968634.81268553093009</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.170654027529686</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.170654027529686</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>Laufer-wifi</name>
+<Point><coordinates>32.1708120912942734.812767664505046</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.17081209129427</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.17081209129427</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>HP-Print-AF-Officejet Pro 6830</name>
+<Point><coordinates>32.1709545554959334.81282029540289</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.17095455549593</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.17095455549593</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>Partner</name>
+<Point><coordinates>32.1711362541407334.81287279562144</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.17113625414073</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.17113625414073</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>Oded 5Ghz</name>
+<Point><coordinates>32.1717836680645834.812966284830594</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.17178366806458</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.17178366806458</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>Oded 2.4Ghz</name>
+<Point><coordinates>32.1717836680645834.812966284830594</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.17178366806458</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.17178366806458</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>DIR-825-4f83</name>
+<Point><coordinates>32.1722189160542934.813008839731566</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.17221891605429</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.17221891605429</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>Partner</name>
+<Point><coordinates>32.1722189160542934.813008839731566</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.17221891605429</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.17221891605429</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>DIR-825-4f83</name>
+<Point><coordinates>32.1724621344502734.81314408162315</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.17246213445027</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.17246213445027</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>Bezeq Free GA32E3</name>
+<Point><coordinates>32.17235933912968434.81383247774181</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.172359339129684</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.172359339129684</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>Lahav</name>
+<Point><coordinates>32.17235933912968434.81383247774181</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.172359339129684</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.172359339129684</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>Partner</name>
+<Point><coordinates>32.1723223379485634.81407112131554</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.17232233794856</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.17232233794856</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> \"><Document><Folder><name>love</name>
+<Point><coordinates>32.1722958357298234.814265874458584</coordinates><Point><Style id="red">
+<TimeStamp><when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/red-dot.png</href>
+</IconStyle><description>32.17229583572982</description>
+<Point>
+</Point>
+<Style id="yellow">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/yellow-dot.png</href></IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp><description>32.17229583572982</description>
+<Point>
+</Point>
+<Style id="green">n<TimeStamp>
+<when>
+<TimeStamp><href>http://maps.google.com/mapfiles/ms/icons/green-dot.png</href>\n</IconStyle><TimeStamp><Point
+><Point
+><TimeStamp><when>
+<TimeStamp></href></Icon></IconStyle></Style><Folder><name>Wifi Networks</name> </Placemark>
+</Folder></Document></kml> </kml>
